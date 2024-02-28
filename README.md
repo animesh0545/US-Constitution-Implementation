@@ -8,6 +8,8 @@
 
 This project implements all the articles and sections of the US Constitution using Prolog and uses some predefined facts to check the validity of specific test queries.
 
-Project Statement can be found [here](https://drive.google.com/file/d/1V0lgwOKwtC3rcIEoZY3aoNiV2kagL32J/view?usp=sharing).
+Project Statement can be found [here](https://drive.google.com/file/d/1nI-qnywXF25EbW6KJrTEsKZiJ0Pef4Ol/view?usp=sharing).
 
-US Constitution can be found [here](https://drive.google.com/file/d/1FFPy3DJGp13sC-8fowoECmDyUCsFqTbs/view?usp=sharing).
+US Constitution can be found [here](https://drive.google.com/file/d/1yrntSVwFuuc7ThLut7d-0yUdUiHZVQ6W/view?usp=sharing).
+
+The screenshot of test queries can be found [here](https://drive.google.com/file/d/185XjEhUCh1cwFiM0UBHmnBPWN-u32UHR/view?usp=sharing).
